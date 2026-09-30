@@ -71,7 +71,7 @@ Yes — paste the contents of `SKILL.md` into a new chat, then paste your notes.
 If you can, use one to capture. This skill is about what gets written down as *decided*.
 
 **Is there more?**
-Client-meeting and weekly-check-in versions, plus Word templates and a usage guide, are in the full pack: https://pickenough.com/bot-free-minutes
+The Core pack adds client-meeting and weekly-meeting prompts plus Word templates — **$19**, are in the full pack: https://pickenough.com/bot-free-minutes
 
 ## License
 
