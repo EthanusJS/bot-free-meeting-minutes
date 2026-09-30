@@ -1,5 +1,7 @@
 # Bot-Free Meeting Minutes — Agent Skill
 
+[![Security: A — Skills Directory](https://www.skillsdirectory.com/api/skills/ethanusjs-executive-meeting-minutes/badge)](https://www.skillsdirectory.com/skills/ethanusjs-executive-meeting-minutes)
+
 Turn raw meeting notes or a Teams / Zoom / Google Meet transcript into executive-ready minutes — **without inviting an AI bot into your meeting.**
 
 Works with any agent that reads `SKILL.md` (Claude Code, Claude.ai, Codex CLI, Gemini CLI, Cursor, and others).
